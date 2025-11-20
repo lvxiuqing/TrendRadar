@@ -1,23 +1,22 @@
+人工智能
 AI
-教师
 智能体
++教师
+
+人工智能
+AI
+智能体
++老师
 
 扣子
 coze
 
 字节
 Trae
-
+AI编程
 cursor
 
 MCP
-
-微软
-Microsoft
-
-英伟达
-NVIDIA
-黄仁勋
 
 谷歌
 google
@@ -29,12 +28,6 @@ openai
 sora
 
 claude
-Anthropic
-
-iphone
-ipad
-mac
-ios
 
 ai
 !gai
